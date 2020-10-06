@@ -1,7 +1,25 @@
 # C++ Boilerplate
 [![Build Status](https://travis-ci.org/dpiet/cpp-boilerplate.svg?branch=master)](https://travis-ci.org/dpiet/cpp-boilerplate)
-[![Coverage Status](https://coveralls.io/repos/github/dpiet/cpp-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/dpiet/cpp-boilerplate?branch=master)
 ---
+
+## Valgrind Exercise for ENPM808X - Software Development for Robotics
+This exercise explores the valgrind tool to improve code quality during development and testing. Valgrind helps detect several types of code issues:
+
+    1. Undefined behavior
+    2. Function and memory profiling
+    3. Data-race detection
+    4. Memory leak detection
+
+It also introduced us to KCachegrind which is a visualisation tool for memory profiling.
+
+1. valgrindOutput1.txt has the outputs of the terminal before fixing the errors.
+2. valgrindOutput2.txt has the outputs of the terminal after fixing the errors.
+3. KCachegrindScreenshot.png has the memory profile of the project. 
+
+## Source
+Valgrind tools overview:
+http://maintainablecode.logdown.com/posts/245425-valgrind-is-not-a-leak-checker
+
 
 ## Overview
 
