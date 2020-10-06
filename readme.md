@@ -1,5 +1,5 @@
 # C++ Boilerplate
-[![Build Status](https://travis-ci.org/dpiet/cpp-boilerplate.svg?branch=master)](https://travis-ci.org/dpiet/cpp-boilerplate)
+[![Build Status](https://travis-ci.org/Karansutradhar-808X-ValgrindExercise.svg?branch=master)](https://travis-ci.org/Karansutradhar-808X-ValgrindExercise)
 ---
 
 ## Valgrind Exercise for ENPM808X - Software Development for Robotics
